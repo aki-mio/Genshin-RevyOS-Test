@@ -32,7 +32,7 @@ Assess the smoothness of Cloud Genshin Impact running on Chromium bundled with t
 
 ## 测试结果记录
 
-![](/home/mio/.config/marktext/images/2025-09-08-10-25-54-image.png)
+<img title="" src="./image.png" alt="" data-align="inline">
 
 在无线网络环境下，云原神平台下显示的网络延迟在40ms上下。游戏画质最低，选择流畅优先。CPU占用最高到百分之九十，温度上升到84°C。
 
