@@ -37,3 +37,5 @@ Assess the smoothness of Cloud Genshin Impact running on Chromium bundled with t
 在无线网络环境下，云原神平台下显示的网络延迟在40ms上下。游戏画质最低，选择流畅优先。CPU占用最高到百分之九十，温度上升到84°C。
 
 游戏画面清晰流畅，声音清晰。在操作下，声音反馈及时，但是画面延迟非常高。平均有5s左右的延迟，导致几乎无法游玩。在firefox上无法打开云原神故无法对照测试
+
+在firefox上无法打开云原神故无法对照测试。
